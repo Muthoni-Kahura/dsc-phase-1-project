@@ -10,7 +10,7 @@
 ## DATA COLLECTION
 ---
 
-We used publicy available information from reputable box office databases that provide comprehensive data on film performace metrics. We have listed the databases we shall use in our analysis below:
+> We used publicy available information from reputable box office databases that provide comprehensive data on film performace metrics. We have listed the databases we shall use in our analysis below:
 
 1. [Box Office Mojo]("https://www.boxofficemojo.com/")
 2. [IMDBLinks]("https://www.imdb.com/")

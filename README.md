@@ -5,12 +5,12 @@
 ## BUSINESS PROBLEM
 ---
 
-Microsoft has seen an opportunity in the film industry as creating original video content is becoming popular across all big companies. They currently lack the know how of the type of films that are performing well at the box office and need to understand the factors that contribute to a successful film. The business problem is therefore studying films that are performing well and drawing insights from them to guide the decision making process of the types of films to be produced at their new movie studio.
+> Microsoft has seen an opportunity in the film industry as creating original video content is becoming popular across all big companies. They currently lack the know how of the type of films that are performing well at the box office and need to understand the factors that contribute to a successful film. The business problem is therefore studying films that are performing well and drawing insights from them to guide the decision making process of the types of films to be produced at their new movie studio.
 
 ## DATA COLLECTION
 ---
 
-We shall use publicy available information from reputable box office databases that provide comprehensive data on film performace metrics. We have listed the databases we shall use in our analysis below:
+We used publicy available information from reputable box office databases that provide comprehensive data on film performace metrics. We have listed the databases we shall use in our analysis below:
 
 1. [Box Office Mojo]("https://www.boxofficemojo.com/")
 2. [IMDBLinks]("https://www.imdb.com/")
@@ -57,12 +57,11 @@ Data relationships: We have employed EDA in identifying relationships between va
 
 ## RECOMMENDATIONS
 ---
-1. Microsoft Movie Studios should produce movies that cut across the Animation, Adventure, Family and Fantasy so as to optimise profits;
+1. Microsoft Movie Studios should produce movies that cut across the Animation, Adventure, Family and Fantasy so as to optimise profits as they are the most profitable genres, they are also the genres with low production costs and high profits.
 
-2. Microsoft Movie Studios should produce the movies in English;
+2. Microsoft Movie Studios should produce the movies in English as it's the most popular language in the box office and have the highest profits; they can traslate them to France, Hindi to capture top international markets.
 
-3. Microsft Movie Studios films should have an average runtime of 105 minutes.
-
+3. Microsft Movie Studios films should have an average runtime of 105 minutes as this is the most common time among the top earning movies.
 
 ## NEXT STEPS
 ---

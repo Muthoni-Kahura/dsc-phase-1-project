@@ -51,8 +51,10 @@ Data relationships: We have employed EDA in identifying relationships between va
 <img width="569" alt="image" src="https://user-images.githubusercontent.com/128212536/232333078-0b40a1cf-bc10-45ea-aef6-233df8c5d902.png">
 
 6. The average runtime for the most profitable movies is 105 minutes.
+<img width="497" alt="image" src="https://user-images.githubusercontent.com/128212536/232339175-a7135bb1-d18d-4f00-9056-bba03ab8e02a.png">
 
 7. The most popular language with highest profits is English.
+<img width="466" alt="image" src="https://user-images.githubusercontent.com/128212536/232339187-cf4b3c66-155a-4f69-8c5a-172b5c0e1b0b.png">
 
 
 ## RECOMMENDATIONS

@@ -18,6 +18,11 @@ We shall use publicy available information from reputable box office databases t
 4. [TheMovieDB]("https://www.themoviedb.org/")
 5. [The Numbers]("https://www.the-numbers.com/")
 
+## DATA ANALYSIS
+---
+
+
+
 ## RESULTS
 ---
 1. Movies with higher budgets have shown a corresponding increase in the revenues;

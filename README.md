@@ -36,12 +36,16 @@ Data relationships: We have employed EDA in identifying relationships between va
 ## RESULTS
 ---
 1. Movies with higher budgets have shown a corresponding increase in the revenues;
+<img width="401" alt="image" src="https://user-images.githubusercontent.com/128212536/232332846-19022157-4cef-4aa1-8dfd-47e6e46816cc.png">
 
 2. The genres Animation, Family, Adventure and Fantasy have the highest profits;
+<img width="573" alt="image" src="https://user-images.githubusercontent.com/128212536/232332879-9a7fcf7a-3aa3-442f-89bf-51e2ead3687a.png">
 
 3. Top 4 most produced genres are Drama, Thriller, Action and Adventure;
+<img width="566" alt="image" src="https://user-images.githubusercontent.com/128212536/232332891-b114df9e-36fb-49bf-9577-a716095a8730.png">
 
 4. Top 4 genres with the highest average ratings are Historical, Documentaries, Animation and Music;
+<img width="564" alt="image" src="https://user-images.githubusercontent.com/128212536/232332901-51af741b-d5ba-4d89-ba32-10bdca7959aa.png">
 
 5. The genres Animation, Adventure, Fantasy and Family are the top genres with low production costs but with high profits;
 

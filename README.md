@@ -20,9 +20,18 @@ We shall use publicy available information from reputable box office databases t
 
 ## DATA ANALYSIS
 ---
+We utilised the following libraries for our analysis
+1. Pandas
+2. Matplotlip
+3. SQLite3
 
+We used Exploratory Data Analysis to gain insights, identify patterns and understand the characteristics of the data; this helped in formulating hypotheses, generating ideas and making data-driven decisions.
 
+Data cleaning: we have explored various ways in cleaning the data provided which includes and not limited to handling missing values, outliers, and inconsistencies. This ensures that the data used for analysis is accurate and reliable.
 
+Data visualization: We have used data visualisation techniques such as bar graphs, line graphs and scatter plots to visually explore the data and identify trends, outliers, and patterns. Visualization helps in gaining a deeper understanding of the data and communicating findings effectively.
+
+Data relationships: We have employed EDA in identifying relationships between variables by analyzing correlations and scatter plots. This helps in understanding the interactions between variables and their impact on the data.
 
 ## RESULTS
 ---

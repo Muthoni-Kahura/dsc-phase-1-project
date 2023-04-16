@@ -20,12 +20,28 @@ We shall use publicy available information from reputable box office databases t
 
 ## RESULTS
 ---
-Results go here
+1. Movies with higher budgets have shown a corresponding increase in the revenues;
+
+2. The genres Animation, Family, Adventure and Fantasy have the highest profits;
+
+3. Top 4 most produced genres are Drama, Thriller, Action and Adventure;
+
+4. Top 4 genres with the highest average ratings are Historical, Documentaries, Animation and Music;
+
+5. The genres Animation, Adventure, Fantasy and Family are the top genres with low production costs but with high profits;
+
+6. The average runtime for the most profitable movies is 105 minutes.
+
+7. The most popular language with highest profits is English.
 
 
 ## RECOMMENDATIONS
 ---
-Recommendations go here
+1. Microsoft Movie Studios should produce movies that cut across the Animation, Adventure, Family and Fantasy so as to optimise profits;
+
+2. Microsoft Movie Studios should produce the movies in English;
+
+3. Microsft Movie Studios films should have an average runtime of 105 minutes.
 
 ## NEXT STEPS
 ---

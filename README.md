@@ -53,9 +53,15 @@ We shall use publicy available information from reputable box office databases t
 
 ## NEXT STEPS
 ---
+<<<<<<< HEAD
 1. Create a Machine Learning algorithm that can predict the optimal budget, genre and duration to create a movie that generates the highest profits. 
 
 2. We can further dig into the data and fetch best writers, editors, actors and such personell to create awesome movies
+=======
+1. Create an algorithm that can predict the optimal budget, genre and duration to create a movie that generates the highest profits. 
+2. We can further dig into the data and fetch best writers, editors, actors and such personell to create awesome movies.
+
+>>>>>>> 03f32571eabebb83f068cb685cb0cf42ad383581
  
 
 

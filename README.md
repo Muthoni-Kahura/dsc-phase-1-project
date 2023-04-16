@@ -29,8 +29,9 @@ Recommendations go here
 
 ## NEXT STEPS
 ---
-1. Create a Machine Learning algorithm that can predict the optimal budget, genre and duration to create a movie that generates the highest profits. 
-2. We can further dig into the data and fetch best writers, editors, actors and such personell to create awesome movies
+1. Create an algorithm that can predict the optimal budget, genre and duration to create a movie that generates the highest profits. 
+2. We can further dig into the data and fetch best writers, editors, actors and such personell to create awesome movies.
+
  
 
 

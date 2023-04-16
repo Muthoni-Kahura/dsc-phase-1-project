@@ -23,15 +23,24 @@ We shall use publicy available information from reputable box office databases t
 
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> ace8f7c6b41a299143f239cd4a7b26e3bdb1abfe
 ## RESULTS
 ---
 1. Movies with higher budgets have shown a corresponding increase in the revenues;
 
+<<<<<<< HEAD
 
 2. The genres Animation, Family, Adventure and Fantasy have the highest profits;
 
  3. Top 4 most produced genres are Drama, Thriller, Action and Adventure;
+=======
+2. The genres Animation, Family, Adventure and Fantasy have the highest profits;
+
+3. Top 4 most produced genres are Drama, Thriller, Action and Adventure;
+>>>>>>> ace8f7c6b41a299143f239cd4a7b26e3bdb1abfe
 
 4. Top 4 genres with the highest average ratings are Historical, Documentaries, Animation and Music;
 
@@ -49,7 +58,10 @@ We shall use publicy available information from reputable box office databases t
 2. Microsoft Movie Studios should produce the movies in English;
 
 3. Microsft Movie Studios films should have an average runtime of 105 minutes.
+<<<<<<< HEAD
 
+=======
+>>>>>>> ace8f7c6b41a299143f239cd4a7b26e3bdb1abfe
 
 ## NEXT STEPS
 ---

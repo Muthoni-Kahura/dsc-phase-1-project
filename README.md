@@ -48,6 +48,7 @@ Data relationships: We have employed EDA in identifying relationships between va
 <img width="564" alt="image" src="https://user-images.githubusercontent.com/128212536/232332901-51af741b-d5ba-4d89-ba32-10bdca7959aa.png">
 
 5. The genres Animation, Adventure, Fantasy and Family are the top genres with low production costs but with high profits;
+<img width="569" alt="image" src="https://user-images.githubusercontent.com/128212536/232333078-0b40a1cf-bc10-45ea-aef6-233df8c5d902.png">
 
 6. The average runtime for the most profitable movies is 105 minutes.
 
